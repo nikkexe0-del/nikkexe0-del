@@ -92,7 +92,7 @@ coding isn't a hobby for me at this point. it's closer to a compulsion. i pick u
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikkk-exe&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=1f1f1f&icon_color=ffffff&title_color=ffffff&text_color=888888&hide_border=false&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikkexe0-del&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=1f1f1f&icon_color=ffffff&title_color=ffffff&text_color=888888&hide_border=false&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkk-exe&layout=compact&theme=dark&bg_color=0d0d0d&border_color=1f1f1f&title_color=ffffff&text_color=888888&hide_border=false)
 
