@@ -1,121 +1,100 @@
 <div align="center">
 
-```
-nikshep doggalli  ·  @nikkk.exe  ·  bengaluru  ·  18
-```
+<h1>hey, i'm acecio &nbsp;👋</h1>
 
-<br/>
+<p><em>med student by force. builder by choice. coding addict by nature.</em></p>
 
-# hey, i'm nikshep 👋
-
-**mbbs student. indie builder. probably coding right now.**
-
-18. forced into medical school. building anyway.
-
-<br/>
-
-[![Instagram](https://img.shields.io/badge/@nikkk.exe-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nikkk.exe)
-[![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://nikshep.vercel.app)
-[![Telegram](https://img.shields.io/badge/telegram-%23000000.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/speednikk)
+<p>
+  <img src="https://img.shields.io/badge/Android-0a0a0a?style=for-the-badge&logo=android&logoColor=3ddc84" />
+  <img src="https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Kotlin-0a0a0a?style=for-the-badge&logo=kotlin&logoColor=7f52ff" />
+  <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=3776ab" />
+  <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=3178c6" />
+</p>
 
 </div>
 
 ---
 
-<br/>
+### the honest bio
 
-## the situation
+i'm supposed to be studying MBBS. instead i'm here, 3 tabs deep into an API docs page, half a Telegram bot running in the background, wondering why my ExoPlayer stream keeps buffering.
 
-i'm 18, doing mbbs, and i didn't choose it. someone else did. the plan was probably *doctor → stable life → done*. cool plan. not mine.
+coding for me isn't a hobby i picked up — it's the thing i default to when everything else feels like noise. phone on silent, headphones on, the world can wait. i don't really "log off."
 
-while my batch is memorising bones, i'm building streaming apps, ai tools, automation bots, and android apps under my own ecosystem — **zestyy**. most repos are private because the good stuff doesn't sit on github collecting stars. it ships.
+---
 
-i don't have a gap year. i don't have a dorm startup. i have biochemistry at 8am and a half-built api at 3am. both are real life.
+### what i build
 
-<br/>
-
-## what i actually want
-
-i want to build something that gets backed by **YC, Khosla, Accel, or Z47**. not because the names are cool — because those rooms mean you've built something that actually matters at scale. that's the goal. mbbs is the detour.
-
-i'm 18. i have time. i'm not slow.
-
-<br/>
-
-## what i do
-
-i build under the **zestyy** ecosystem — streaming infra, automation, ai integrations, android apps, chrome extensions, telegram bots. you won't see most of it here. the repos are private. they're gems, not portfolio pieces.
-
-when work is on, nothing else is. phone ignored. people talking — doesn't register. i go fully in, pattern recognition takes over, and i come up for air when it's done. i've forgotten meals, sleep, and yes, more than one viva date.
-
-<br/>
-
-## things i live inside
+i mostly live at the intersection of **streaming**, **android**, **automation**, and **AI** — and my repos are private. not because i'm gatekeeping, they're just too good to put out in the open yet. gems stay in the vault until they're ready.
 
 ```
-UI/UX  ·  AI & LLMs  ·  AI research papers  ·  automation  ·  streaming infra
-telegram wrappers  ·  REST APIs  ·  Claude API  ·  Python  ·  Android
+streaming     →  web (React/TS) + native Android (Kotlin / ExoPlayer / Media3)
+automation    →  Telegram userbots, Python scripts, Railway, stuff that runs 24/7
+ai tooling    →  Claude API, Anthropic SDK, reading papers, building tiny experiments
+ui/ux         →  constant. i notice things nobody asked me to notice.
+apis          →  if it has an endpoint, i've probably hit it at 1am
 ```
 
-i read ai papers the way some people read news. i think a lot about interfaces — not just how they look but how they feel. spacing, weight, motion. dark mode only. always.
+---
 
-<br/>
+### how my brain works
 
-## stack i reach for
+i'm weirdly good at **pattern recognition** — in code, in systems, in UI, in chess, in a cricket match. once i see the shape of something, i can't unsee it. it's useful. sometimes annoying.
 
-<div align="left">
+when i'm in the zone — and i mean *actually* in it — everything else goes invisible. food, time, notifications, conversations. the work is the only thing. people who know me know not to expect a reply when i'm building something.
 
-**frontend**
-![React](https://img.shields.io/badge/React-%23000000.svg?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23000000.svg?style=flat-square&logo=typescript&logoColor=3178C6)
-![Vite](https://img.shields.io/badge/Vite-%23000000.svg?style=flat-square&logo=vite&logoColor=646CFF)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%23000000.svg?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
+---
 
-**backend**
-![Python](https://img.shields.io/badge/Python-%23000000.svg?style=flat-square&logo=python&logoColor=3776AB)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23000000.svg?style=flat-square&logo=fastapi&logoColor=009688)
-![Node.js](https://img.shields.io/badge/Node.js-%23000000.svg?style=flat-square&logo=node.js&logoColor=339933)
+### off the screen
 
-**mobile**
-![Kotlin](https://img.shields.io/badge/Kotlin-%23000000.svg?style=flat-square&logo=kotlin&logoColor=7F52FF)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%23000000.svg?style=flat-square&logo=jetpackcompose&logoColor=4285F4)
+**cricket** — i watch it like i read code. looking for patterns, tendencies, what's about to go wrong before it does.
 
-**infra**
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-%23000000.svg?style=flat-square&logo=railway&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%23000000.svg?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![GitHub Actions](https://img.shields.io/badge/GH%20Actions-%23000000.svg?style=flat-square&logo=githubactions&logoColor=2088FF)
+**chess** — same energy. everything is a system. everything has a tell.
 
-</div>
+---
 
-<br/>
+### the stack
 
-## what else
+| layer | tools |
+|---|---|
+| **android** | Kotlin · Jetpack · ExoPlayer/Media3 · Room · Retrofit |
+| **web** | React · TypeScript · Vite · Tailwind |
+| **automation** | Python · Telethon · Pyrogram · OkHttp |
+| **ai** | Claude API · Anthropic SDK · prompt engineering |
+| **deploy** | Vercel · Cloudflare Pages · Railway |
+| **design** | Inter everywhere · dark mode always · Apple-brained |
 
-**cricket + chess** — both are pattern recognition in disguise. reading a bowler's run-up before the ball drops, seeing three moves ahead on the board. same muscle, different arena. i use it everywhere — in code, in systems, in conversations.
+---
 
-**podcasts** — always on. not background noise, actually listening. founder stories, ai debates, product thinking, random rabbit holes. it's how i stay connected to a world i'm not technically in yet.
+### currently in my head
 
-**pattern recognition** is genuinely the thing i'm best at. i notice structure in things before i notice the surface. it makes me fast at debugging, fast at reading people, fast at seeing where something breaks before it does.
+```python
+obsessions = [
+    "AI agents + reasoning — reading everything I can find",
+    "Claude API — tools, streaming, multi-turn, the whole thing",
+    "Android architecture that doesn't collapse under its own weight",
+    "UI/UX that feels inevitable, not designed",
+    "Telegram wrappers and what you can actually automate with them",
+]
+```
 
-<br/>
+---
 
-## numbers
+### find me
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikkk-exe&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=1f1f1f&icon_color=ffffff&title_color=ffffff&text_color=888888&hide_border=false&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkk-exe&layout=compact&theme=dark&bg_color=0d0d0d&border_color=1f1f1f&title_color=ffffff&text_color=888888&hide_border=false)
-
-</div>
-
-<br/>
+<p>
+  <a href="https://github.com/nikshep254">
+    <img src="https://img.shields.io/badge/github-nikshep254-0a0a0a?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/speednikk">
+    <img src="https://img.shields.io/badge/telegram-speednikk-0a0a0a?style=for-the-badge&logo=telegram&logoColor=2ca5e0" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
-
-*18 · bengaluru · mbbs by compulsion, builder by nature · anatomy can wait*
-
+<sub>dark mode · Inter · private repos · forced into MBBS · building anyway</sub>
 </div>
