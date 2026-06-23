@@ -1,9 +1,4 @@
-<!-- Header -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=120&section=header&text=&animation=fadeIn" width="100%"/>
-
-<br/>
 
 ```
 nikshep doggalli  ·  @nikkk.exe  ·  bengaluru
@@ -13,15 +8,15 @@ nikshep doggalli  ·  @nikkk.exe  ·  bengaluru
 
 # hey, i'm nikshep 👋
 
-**indie builder. interface obsessive. always shipping something.**
+**med student by force. builder by choice. coder by addiction.**
 
-i build things people actually use — streaming apps, automation tools, ai-powered stuff, and whatever rabbit hole i fell into this week.
+i'm technically doing mbbs. but between lectures and labs, i'm usually three terminals deep into something i probably shouldn't have started at 2am. no regrets.
 
 <br/>
 
 [![Instagram](https://img.shields.io/badge/@nikkk.exe-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nikkk.exe)
 [![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://nikshep.vercel.app)
-[![Telegram](https://img.shields.io/badge/telegram-%23000000.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
+[![Telegram](https://img.shields.io/badge/telegram-%23000000.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/speednikk)
 
 </div>
 
@@ -31,24 +26,20 @@ i build things people actually use — streaming apps, automation tools, ai-powe
 
 ## what i actually do
 
-most of my time goes into building under the **zestyy** ecosystem — a set of streaming, automation, and utility apps i'm growing into something real.
+i build stuff under the **zestyy** ecosystem — streaming apps, automation bots, ai tools, android apps, browser extensions, and whatever else i get obsessed with that week. most of my repos are private though. the good stuff doesn't go public — it ships.
 
-- 📺 **live TV & IPTV infrastructure** — hls.js, mpegts.js, shaka player, drm, exoplayer, the works
-- 🤖 **automation bots** — instagram, whatsapp, telegram, instagrapi, evolution api
-- 🎬 **ott & streaming apps** — react frontends, android (kotlin/jetpack compose), vercel serverless proxies
-- 🧠 **ai integrations** — claude api, openrouter, llm pipelines, reading research papers i half-understand
-- 🛠 **utility tools** — chrome extensions, downloaders, dashboards, whatever solves the problem
+when i'm in work mode, the world around me genuinely doesn't exist. phone on silent, notifications off, people talking — none of it registers. it's not a flex, it's just how i'm wired. pattern recognition kicks in, everything clicks, and i don't stop until it works.
 
 <br/>
 
-## things i'm always thinking about
+## things i live inside
 
 ```
-UI/UX  ·  AI & LLMs  ·  AI research papers  ·  automation  ·  streaming tech
+UI/UX  ·  AI & LLMs  ·  AI research papers  ·  automation  ·  streaming infra
 telegram wrappers  ·  REST APIs  ·  Claude API  ·  Python  ·  Android
 ```
 
-i have strong opinions about interfaces. dark mode is non-negotiable. spacing matters more than people think.
+i think a lot about interfaces. not just how they look — how they *feel*. spacing, weight, motion. dark mode is the only mode. i've read enough ai papers to know i don't know enough, and that keeps me going.
 
 <br/>
 
@@ -81,20 +72,19 @@ i have strong opinions about interfaces. dark mode is non-negotiable. spacing ma
 
 <br/>
 
-## what's live
+## when i'm not coding
 
-| project | what it is |
-|---|---|
-| **zestyyTV / zestyyLive** | react IPTV apps — live indian TV with drm, hls, proxy infra |
-| **zestyyFlix** | netflix-style ott aggregator, tmdb-powered, android apk too |
-| **zestySports** | android sports streaming app, exoplayer, cinematic controls |
-| **avva kannada** | kannada IPTV for elderly users — warm ux, whitelisted channels |
-| **InstaFlow AI** | instagram dm automation with ai persona, analytics, reel sends |
-| **WaFlow** | whatsapp automation bot, same dna as instaflow |
-| **NikiFetch** | chrome extension — multi-type link scraper with video detection |
-| **nikki-dwnldr** | python/tkinter video downloader with mpd parsing + gh actions build |
-| **entropyzero** | life tracking — streaks, mood, kanban, ai insights |
-| **Gitezy** | browser-based github manager, 9 features, zero backend |
+cricket and chess. two games that are basically just pattern recognition with different aesthetics — which probably explains why i'm hooked on both. cricket for the chaos you have to read ahead of time. chess because every position is a puzzle and your brain either sees it or it doesn't. mine usually does.
+
+pattern recognition is genuinely my thing. in code, in games, in people, in systems. i notice structure in things before i notice the surface. it's useful until you're at dinner and you're mentally refactoring something instead of listening.
+
+<br/>
+
+## the honest bit
+
+i'm in mbbs. didn't choose it, it chose me — or rather, it was chosen for me. i don't hate it, but let's just say if there was a github contribution graph for stethoscope hours, it'd be mostly grey. the green squares are elsewhere.
+
+coding isn't a hobby for me at this point. it's closer to a compulsion. i pick up a problem and i don't put it down. i forget to eat, i forget what time it is, i forget that i have an anatomy practical tomorrow. i've made peace with this.
 
 <br/>
 
@@ -114,8 +104,6 @@ i have strong opinions about interfaces. dark mode is non-negotiable. spacing ma
 
 <div align="center">
 
-*building in bengaluru · zestyy ecosystem · always in dark mode*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0a0a0a&height=80&section=footer" width="100%"/>
+*bengaluru · zestyy · dark mode only · anatomy can wait*
 
 </div>
