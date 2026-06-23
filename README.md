@@ -30,10 +30,10 @@ repos are private. not gatekeeping — just not ready. gems stay in the vault.
 
 ```
 streaming     →  web (React/TS) + native Android (Kotlin / ExoPlayer / Media3)
-automation    →  Telegram userbots, <mark>Python</mark> scripts, Railway, stuff that runs 24/7
-ai tooling    →  <mark>Claude API</mark>, Anthropic SDK, reading papers, building small experiments
+automation    →  Telegram userbots, Python scripts, Railway, stuff that runs 24/7
+ai tooling    →  Claude API, Anthropic SDK, reading papers, building small experiments
 ui/ux         →  constant. i notice things nobody asked me to notice.
-<mark>apis</mark>          →  if it has an endpoint, i've probably hit it at 1am
+apis          →  if it has an endpoint, i've probably hit it at 1am
 ```
 
 ---
